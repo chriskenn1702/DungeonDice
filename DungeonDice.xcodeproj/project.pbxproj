@@ -11,6 +11,7 @@
 		E017274329A00EAF00CF5E12 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E017274229A00EAF00CF5E12 /* ContentView.swift */; };
 		E017274529A00EB100CF5E12 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E017274429A00EB100CF5E12 /* Assets.xcassets */; };
 		E017274829A00EB100CF5E12 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E017274729A00EB100CF5E12 /* Preview Assets.xcassets */; };
+		E0F4D18929A7351F00978DC4 /* ButtonLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0F4D18829A7351F00978DC4 /* ButtonLayout.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		E017274429A00EB100CF5E12 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E017274729A00EB100CF5E12 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		E017274E29A011E500CF5E12 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		E0F4D18829A7351F00978DC4 /* ButtonLayout.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonLayout.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 				E017274E29A011E500CF5E12 /* Info.plist */,
 				E017274029A00EAF00CF5E12 /* DungeonDiceApp.swift */,
 				E017274229A00EAF00CF5E12 /* ContentView.swift */,
+				E0F4D18829A7351F00978DC4 /* ButtonLayout.swift */,
 				E017274429A00EB100CF5E12 /* Assets.xcassets */,
 				E017274629A00EB100CF5E12 /* Preview Content */,
 			);
@@ -139,6 +142,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E0F4D18929A7351F00978DC4 /* ButtonLayout.swift in Sources */,
 				E017274329A00EAF00CF5E12 /* ContentView.swift in Sources */,
 				E017274129A00EAF00CF5E12 /* DungeonDiceApp.swift in Sources */,
 			);
